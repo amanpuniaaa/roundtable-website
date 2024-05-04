@@ -15,7 +15,7 @@ export default function Landing(){
             <div className="grid grid-cols-1 gap-y-4 lg:items-center lg:grid-cols-2 xl:grid-cols-2">
                 <div className="text-center xl:col-span-1 lg:text-left md:px-16 lg:px-0 xl:pr-20">
                     <h1 className="text-4xl font-bold leading-tight text-white sm:text-5xl sm:leading-tight lg:text-6xl lg:leading-tight font-pj">Welcome to the Round Table Network</h1>
-                    <p className="mt-2 text-lg text-white sm:mt-6 font-inter">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vehicula massa in enim luctus. Rutrum arcu.</p>
+                    <p className="mt-2 text-lg text-white sm:mt-6 font-inter">Leveraging our technical knowledge of blockchain technology and deep expertise in performance branding to position your brand as the leader in the crypto industry.</p>
 
                     <div className="mt-8 items-center">
                     <CTAButton
