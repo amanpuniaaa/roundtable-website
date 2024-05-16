@@ -8,7 +8,7 @@ export default function Agencies(){
     </div>    
 
 
-      <div className="grid mx-auto lg:gap-8 grid-cols-3 pt-4 lg:p-12 bg-white sm:p-14 max-w-7xl ">
+      <div className="grid mx-auto lg:gap-8 grid-cols-3 pt-4 lg:p-12 bg-white sm:p-14 sm:gap-8 max-w-7xl ">
         <AgencyCard 
             agencyHeadline="Round Table Blog"
             agencyInfoLine="Check out our latest articles on our blog"

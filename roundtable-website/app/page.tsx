@@ -34,7 +34,7 @@ export default function Home() {
       <Agencies/>
       <Testimonials/>
       <Partners/>
-      <Careers/>
+      {/* <Careers/> */}
       <MarqueeText
         value='Round Table Network🚀 Round Table Network🚀 '
       />

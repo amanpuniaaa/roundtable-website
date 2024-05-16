@@ -12,7 +12,7 @@ export default function Footer(){
   <Newsletter/>
 
 
-    <div className="mt-16 grid grid-cols-1 gap-8 lg:grid-cols-2 lg:gap-32">
+    <div className="mt-8 grid grid-cols-1 gap-8  border-t border-white lg:grid-cols-2 lg:gap-32">
       <div className="mx-auto max-w-sm lg:max-w-none">
       <p className="mt-4 text-center font-extrabold uppercase text-2xl text-white lg:text-left lg:text-3xl">
           Round Table Network 

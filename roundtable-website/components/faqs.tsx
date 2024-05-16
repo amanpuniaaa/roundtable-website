@@ -2,9 +2,9 @@ export default function FAQs(
 ){
     return(
 <section>
-<h1 className="mt-14 text-4xl text-center font-semibold">Frequently Asked Questions (FAQs)</h1>
+<h1 className="mt-14 mx-auto items-center text-4xl text-center font-semibold">Frequently Asked Questions (FAQs)</h1>
 
-  <div className="items-center pt-14 p-16 justify-between">
+  <div className="p-8">
       <div className="flow-root pt-14 lg:p-16 -my-8 divide-y divide-gray-100">
         <Tab
           Q='What is crypto marketing?'
@@ -17,7 +17,7 @@ export default function FAQs(
         />
 
 <Tab
-          Q='Why is Round Table Network the best choice as your crypto partner?'
+          Q='Why is Round Table Network the best choice as your crypto parntner?'
           A='Round Table Network is one of the top Crypto Network in the world. We have years of experience in NFT marketing, Crypto, and Blockchain technology. Our growth experts are already working with numerous companies in the crypto space to increase token sales, improve community management, and turn their brand into a crypto influencer. We are doing rapid experimentations, channel assessment, market research, and other tactics to understand what works for this technology. Working with Round Table Network ensures you get the latest proven strategies and frameworks in your Twitter campaigns.'
         />
 

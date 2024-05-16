@@ -8,14 +8,14 @@ export default function JoinUs(){
 
             <div className="lg:py-24">
 
-                <p className="max-w-screen-md text-2xl sm:text-5xl font-extrabold text-white">Be Part <br></br> of Something Massive 🔥 </p>
+                <p className="max-w-screen-md text-5xl md:text-5xl text-center font-extrabold text-white">Be Part of Something Massive 🔥 </p>
                 <p className="mt-4 text-white text-xl">
                         Lorem ipsum dolor, sit amet consectetur adipisicing elit. Aut qui hic atque tenetur quis
                         eius quos ea neque sunt, accusantium soluta minus veniam tempora deserunt? Molestiae eius
                         quidem quam repellat.
                 </p>
             
-            <div className="max-w-3xl mx-auto grid mt-8 grid-cols-1 gap-4 lg:grid-cols-3 lg:gap-8">
+            <div className="max-w-xl mx-auto grid mt-8 grid-cols-1 gap-4 sm:grid-cols-3 sm:gap-8">
                 <div className=""> 
                     <NumBoxG
                     name='Impressions'
