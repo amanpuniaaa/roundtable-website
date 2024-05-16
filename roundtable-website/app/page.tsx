@@ -16,18 +16,17 @@ export default function Home() {
       <Landing/>
       <Content
           content1Heading='suck it'
-          content1SubHeading='Suck this big cawk'
-          content1CTA='Suck this big cawk'
+          content1SubHeading='lorem ipsum dolor amet'
+          content1CTA='lorem ipsum dolor amet'
           href1="/RT Landing.png"
-          content2Heading='Suck this big cawk'
-          content2SubHeading='Suck this big cawk'
-          content2CTA='Suck this big cawk'
+          content2Heading='lorem ipsum dolor amet'
+          content2SubHeading='lorem ipsum dolor amet'
+          content2CTA='lorem ipsum dolor amet'
           href2="/RT Landing.png"
-          content3Heading='Suck this big cawk'
-          content3SubHeading='Suck this big cawk'
-          content3CTA='Suck this big cawk'
+          content3Heading='lorem ipsum dolor amet'
+          content3SubHeading='lorem ipsum dolor amet'
+          content3CTA='lorem ipsum dolor amet'
           href3="/RT Landing.png"
-
       
       />
       <JoinUs/>
